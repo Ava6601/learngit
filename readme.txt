@@ -7,4 +7,3 @@ GitHub Desktop
 GitHub Desktop is a GitHub client for Windows and Mac.
 development environment.
 zai'jian
-乱加的。
